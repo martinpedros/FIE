@@ -22,4 +22,5 @@ print(f'El punto P1(x0, y0): ({x0},{y0})')
 print(f'El punto P2(x1, y1): ({x1},{y1})')
 
 print('\n##################################################')
-print(f'\nLa pendiente "a" es: {pendiente(x0, y0, x1, y1)}\n')
+print(f'La pendiente "a" es: {pendiente(x0, y0, x1, y1)}')
+print('##################################################\n')
