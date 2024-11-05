@@ -14,7 +14,12 @@ y0 = int(input('Ingresar el valor de y del punto P1 (y0): '))
 x1 = int(input('Ingresar el valor de x del punto P2 (x1): '))
 y1 = int(input('Ingresar el valor de y del punto P2 (y1): '))
 
-print(f'\nEl punto P1(x0, y0) es: ({x0},{y0})')
-print(f'\nEl punto P2(x1, y1) es: ({x1},{y1})')
+print('##################################################')
+print('Los puntos ingresados son')
+print('##################################################')
 
+print(f'El punto P1(x0, y0): ({x0},{y0})')
+print(f'El punto P2(x1, y1): ({x1},{y1})')
+
+print('\n##################################################')
 print(f'\nLa pendiente "a" es: {pendiente(x0, y0, x1, y1)}\n')
