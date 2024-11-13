@@ -1,4 +1,4 @@
-# Facultad de Ingenieria del Ejercito (Programas)
+# FIE (Programas)
 Programas realizados durante la cursada de la carrera de Ingenieria Electrónica.
 
 ## Contenido de las carpetas:
