@@ -1,5 +1,5 @@
 # FIE (Programas)
-Programas realizados durante la cursada de la carrera de Ingenieria Electrónica.
+Programas realizados durante la cursada de la carrera de Ingenieria Electrónica en la Facultad de Ingeniería del Elercoto (FIE).
 
 ## Contenido de las carpetas:
 0_Curso_Matematica: Programas correspondientes al Taller de Introducción a la Matemática Universitaria.
