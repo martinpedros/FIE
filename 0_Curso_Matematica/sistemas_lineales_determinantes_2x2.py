@@ -5,6 +5,9 @@
 # Alumno: Martin Pedros
 # Programa: Cálculo de sistemas lineales por método de determinantes de 2x2
 #
+# Version: 1.0
+# Fecha: 15/11/2024
+#
 # ###################################################################################
 
 def solucion_x(a, b, c, d, e, f):
