@@ -5,6 +5,9 @@
 # Alumno: Martin Pedros
 # Programa: Cálculo de raíces de una Parabola
 #
+# Version: 1.0
+# Fecha: 13/11/2024
+#
 # ###################################################################################
 
 def raiz(a, b, c):
