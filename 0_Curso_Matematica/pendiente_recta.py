@@ -5,6 +5,9 @@
 # Alumno: Martin Pedros
 # Programa: Cálculo de la pendiente de una Recta
 #
+# Version: 1.0
+# Fecha: 13/11/2024
+#
 # ###################################################################################
 
 def pendiente(x0, y0, x1, y1):
