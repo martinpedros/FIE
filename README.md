@@ -14,4 +14,5 @@ Programas realizados durante la cursada de la carrera de Ingenieria Electrónica
   Dados los coeficientes (a, b, c, d, e, f) de un sistema de 2 ecuaciones con 2 incognitas, calcula las dos variables "x" e "y" por el método de determinantes.
 
 
-## Martin Pedros
+##
+Martin Pedros
