@@ -15,4 +15,4 @@ Programas realizados durante la cursada de la carrera de Ingenieria Electrónica
 
 
 ##
-Martin Pedros
+Martin Pedros (martinpedros@gmail.com)
