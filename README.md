@@ -1,7 +1,7 @@
 # FIE (Programas)
 Programas realizados durante la cursada de la carrera de Ingenieria Electrónica en la Facultad de Ingeniería del Ejercito (FIE).
 
-NOTA: Por el momento los programas no tienen deteccion de errores, por lo que los datos se deben ingresar correctamente. De lo contrario se debera volver a ejecutar.
+NOTA: Por el momento los programas no tienen deteccion de errores, por lo que los datos se deben ingresar correctamente, de lo contrario se debera volver a ejecutar dicho programa.
 
 ## Contenido de las carpetas:
 0_Curso_Matematica: Programas correspondientes al Taller de Introducción a la Matemática Universitaria.
