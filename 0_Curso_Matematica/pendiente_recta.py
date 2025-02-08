@@ -8,6 +8,10 @@
 # Version: 1.0
 # Fecha: 13/11/2024
 #
+# NOTA: Por el momento el programa no tienen deteccion de errores, por lo que los
+# datos se deben ingresar correctamente, de lo contrario se debera volver a ejecutar
+# dicho programa.
+#
 # ###################################################################################
 
 def pendiente(x0, y0, x1, y1):
