@@ -1,6 +1,6 @@
 # ###################################################################################
 #
-# FIE (Facultad de Ingenieria del Ejercito)
+# Facu
 # Materia: Taller de Introducción a la Matemática Universitaria
 # Alumno: Martin Pedros
 # Programa: Cálculo de la pendiente de una Recta
