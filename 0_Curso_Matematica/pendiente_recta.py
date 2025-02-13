@@ -9,8 +9,8 @@
 #   Fecha: 13/11/2024
 #
 #   NOTA: Por el momento el programa no tienen deteccion de errores, por lo que los
-#   datos se deben ingresar correctamente, de lo contrario se debera volver a ejecutar
-#   dicho programa.
+#   datos se deben ingresar correctamente, de lo contrario se debera volver a
+#   ejecutar dicho programa.
 #
 # ###################################################################################
 
