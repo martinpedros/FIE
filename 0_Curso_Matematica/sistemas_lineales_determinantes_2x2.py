@@ -1,16 +1,16 @@
 # ###################################################################################
 #
-# Facu
-# Materia: Taller de Introducción a la Matemática Universitaria
-# Alumno: Martin Pedros
-# Programa: Cálculo de sistemas lineales por método de determinantes de 2x2
+#   Facu
+#   Materia: Taller de Introducción a la Matemática Universitaria
+#   Alumno: Martin Pedros
+#   Programa: Cálculo de sistemas lineales por método de determinantes de 2x2
 #
-# Version: 1.0
-# Fecha: 15/11/2024
+#   Version: 1.0
+#   Fecha: 15/11/2024
 #
-# NOTA: Por el momento el programa no tienen deteccion de errores, por lo que los
-# datos se deben ingresar correctamente, de lo contrario se debera volver a ejecutar
-# dicho programa.
+#   NOTA: Por el momento el programa no tienen deteccion de errores, por lo que los
+#   datos se deben ingresar correctamente, de lo contrario se debera volver a
+#   ejecutar dicho programa.
 #
 # ###################################################################################
 
